@@ -27,8 +27,7 @@ The Dataset contains two tables – “Sales” table and “Products” table a
 - Merge all charts & KPIs cards into one dashboard, and apply slicers to make the dashboard dynamic.
 
 ## Power BI Dashboard
-![Sales_Data_Analysis_Report.Image](https://github.com/NazimUddin17/Power-BI_Sales_Data_Analysis_Project/blob/main/Sales_Data_Analysis_Report.%20Image.PNG) 
-
+![Sales_Data_Analysis_Report  Image](https://github.com/NazimUddin17/Power-BI_Sales_Data_Analysis_Project/blob/main/Sales_Data_Analysis_Report.%20Image.PNG) 
 
 
 
