@@ -25,3 +25,7 @@ The Dataset contains two tables – “Sales” table and “Products” table a
 - Make sure data is consistent and clean with respect to data types, data format and values used. 
 - Create charts according to the business questions asked.    
 - Merge all charts & KPIs cards into one dashboard, and apply slicers to make the dashboard dynamic.
+
+## Power BI Dashboard
+
+
