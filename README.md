@@ -2,7 +2,7 @@
 The company wants to create a half-yearly sales report for the first half of the year 2020, so that, the company can understand how their business is going on, and customers’ behaviour of the different stages of the society.  
 
 ## Dataset Used
-The Dataset contains two tables – “Sales” table and “Products” table along with a newly created “Date” table. 
+The Dataset contains two tables – “Sales” table and “Products” table along with a newly created “Dates” table. 
 - <a href="https://github.com/NazimUddin17/Power-BI_Sales_Data_Analysis_Project/blob/main/Sales%20Data.xlsx">Sales Data</a>
 
 ## Business Questions and KPIs
@@ -17,6 +17,8 @@ The Dataset contains two tables – “Sales” table and “Products” table a
 - What was the overall total sales (revenue)?
 - What was the overall total order quantity? 
 - Compare the profit margins for the different sales channels.
+ 
+- Interactive Dashboard <a href="https://github.com/NazimUddin17/Power-BI_Sales_Data_Analysis_Project/blob/main/Sales%20Report.pbix">View Dashboard</a>
 
 ## Process
 - Check data for any missing values, duplicate values, outliers and anomalies, and sort out the same.
