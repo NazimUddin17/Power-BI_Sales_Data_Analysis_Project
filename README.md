@@ -1,2 +1,4 @@
 # Power-BI_Sales_Data_Analysis_Project
-I developed a comprehensive project in MS Power BI, creating different types of charts, and dashboard to analyse the data. This process involved several stages, including creating new measures and a date table, cleaning data using power query, modelling data using power pivot, data pre-processing and data visualisation. 
+The company wants to create a half-yearly sales report for the first half of the year 2020, so that, the company can understand how their business is going on, and customers’ behaviour of the different stages of the society.  
+
+## Dataset Used
