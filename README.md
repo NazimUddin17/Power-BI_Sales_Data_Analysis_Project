@@ -29,5 +29,14 @@ The Dataset contains two tables – “Sales” table and “Products” table a
 ## Power BI Dashboard
 ![Sales_Data_Analysis_Report  Image](https://github.com/NazimUddin17/Power-BI_Sales_Data_Analysis_Project/blob/main/Sales_Data_Analysis_Report.%20Image.PNG) 
 
+## Key Insights & Findings
+- The product category “Decoratives” contributed the most to the overall total profit (nearly 30%), and the overall total revenue while the product category “Sports” contributed the least.  
+- The profits from each sales channel are close to each other, but the profit from the channel “Online” is higher than others. 
+- For every product category, the revenue, the total order quantity and the profit are proportional to the respective product category’s unit price.  
+- The overall sales gradually increase over time from January to May 2020 (except February).  
+- The profits margins for every sales channels nearly the same (87%).
+ 
+## Conclusion & Recommendations 
+To improve the overall sales of the Company, a strategic marketing plan focused on specially the top selling product category such as “Decoratives” should be implemented. Also, a relatively more emphasis need to put on the sales channel “Online” because through this sales channel the company earn a little bit more revenue than the other.    
 
 
