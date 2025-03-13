@@ -29,6 +29,8 @@ The Dataset contains two tables – “Sales” table and “Products” table a
 ## Power BI Dashboard
 ![Sales_Data_Analysis_Report  Image](https://github.com/NazimUddin17/Power-BI_Sales_Data_Analysis_Project/blob/main/Sales_Data_Analysis_Report.%20Image.PNG) 
 
+## Power BI Dashboard
+
 ## Key Insights & Findings
 - The product category “Decoratives” contributed the most to the overall total profit (nearly 30%), and the overall total revenue while the product category “Sports” contributed the least.  
 - The profits from each sales channel are close to each other, but the profit from the channel “Online” is higher than others. 
